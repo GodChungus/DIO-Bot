@@ -19,4 +19,9 @@
     <b>/overheaven:</b> Get a picture of Heaven Attained Dio.<br>
     <b>/roll:</b> Roll a dice! You can enter as many sides as you want.<br>
   </p>
+
+  <p>
+    Note: As of right now, the bot doesn't work! Not sure why, probably some updates to
+    the syntax of the code that makes mine unusable.
+  </p>
 </div>
